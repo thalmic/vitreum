@@ -1,5 +1,5 @@
 {
-  "name": "vitreum",
+  "name": "@thalmic/vitreum",
   "version": "5.8.2",
   "description": "Web app build system using Browserify, React, and Less",
   "bin": "lib/vitreum",
