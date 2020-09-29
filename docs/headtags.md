@@ -2,7 +2,7 @@
 Sometimes you'll want your components to be able to modify what's in your HTML `head`, such for `title` tags or `meta` descriptions. This can be pretty tricky to pull off, so this functionality comes built into Vitreum.
 
 ```jsx
-const { Title, Meta, Description, Structured } = require('vitreum/headtags');
+const { Title, Meta, Description, Structured } = require('@thalmic/vitreum/headtags');
 
 const Main = React.createClass({
 	render: function(){
